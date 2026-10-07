@@ -1,5 +1,6 @@
 node_modules
 .next
+.next-pages
 package-lock.json
 next-env.d.ts
 test-results

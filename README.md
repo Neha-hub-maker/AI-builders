@@ -4,6 +4,24 @@
 
 A responsive, bilingual healthcare product built with Next.js App Router, React, TypeScript, Lucide icons, locally bundled Google Sans, and Noto Sans Bengali.
 
+## Visual preview
+
+The public demo is prepared for **https://neha-hub-maker.github.io/AI-builders/**.
+If the site is not available yet, open the repository's **Settings → Pages** and choose **Deploy from a branch → gh-pages → / (root)**, then Save. GitHub may take a few minutes to publish.
+
+![Nira landing page](docs/screenshots/landing.png)
+![Nira patient dashboard](docs/screenshots/dashboard.png)
+
+More previews: [Upload experience](docs/screenshots/upload.png) · [Medical timeline](docs/screenshots/timeline.png).
+
+### Publish updates
+
+```bash
+npm run deploy:pages
+```
+
+This builds a static GitHub Pages export with the `/AI-builders` path prefix, then pushes only the built site to the `gh-pages` branch. It uses an isolated temporary Git index and does not switch or overwrite your working branch. No deployment secret is needed beyond your normal Git push access. GitHub Pages serves this frontend demo; uploads remain local to each visitor's browser.
+
 ## Run
 
 Requires Node.js 20.9 or newer (validated with Node 24).

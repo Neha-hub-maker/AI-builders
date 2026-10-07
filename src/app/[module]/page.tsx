@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import { AppShell } from "@/components/app-shell";
 import { ModulePage } from "@/components/modules";
 const modules = ["documents", "summary", "trends", "doctor-access", "settings"];
+export const dynamicParams = false;
 export function generateStaticParams() {
   return modules.map((module) => ({ module }));
 }
