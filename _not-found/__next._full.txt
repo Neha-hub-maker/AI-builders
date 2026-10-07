@@ -1,0 +1,28 @@
+1:"$Sreact.fragment"
+2:"/AI-builders/_next/static/chunks/07ru7kork9-g1.js"
+3:I[67028,["$2"],"HealthProvider"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/AI-builders/_next/static/chunks/1ie2yy3c7se6w.js"
+7:I[29306,["$2","$6"],"default"]
+b:I[47257,["$2"],"ClientPageRoot"]
+e:I[97367,["$2"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[97367,["$2"],"$11"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+17:I[68027,["$2"],"default",1]
+:HL["/AI-builders/_next/static/chunks/0kkff99e5-_r2.css","style"]
+:HL["/AI-builders/_next/static/chunks/16kfi4_sl5avv.css","style"]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Lb",null,{"Component":"$7","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@c","$@d"]}}],[["$","script","script-0",{"src":"/AI-builders/_next/static/chunks/1ie2yy3c7se6w.js","async":true,"nonce":"$undefined"}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/AI-builders/_next/static/chunks/0kkff99e5-_r2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/AI-builders/_next/static/chunks/16kfi4_sl5avv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/AI-builders/_next/static/chunks/07ru7kork9-g1.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":"$L13"}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":"$L16"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$17",[["$","link","0",{"rel":"stylesheet","href":"/AI-builders/_next/static/chunks/0kkff99e5-_r2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/AI-builders/_next/static/chunks/16kfi4_sl5avv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"HfScwsI0W-vjhBN7c2H7O"}
+9:C
+c:{}
+d:"$a:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[27201,["$2"],"IconMark"]
+10:null
+16:[["$","title","0",{"children":"Nira — Your medical history, remembered forever"}],["$","meta","1",{"name":"description","content":"Your lifelong health story, connected. Nira brings your medical records together into an evidence-linked clinical memory. AI remembers. Doctors decide."}],["$","link","2",{"rel":"icon","href":"/AI-builders/icon.svg?icon.2xis6y6c03j77.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]

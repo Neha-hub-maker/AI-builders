@@ -1,0 +1,30 @@
+1:"$Sreact.fragment"
+2:"/AI-builders/_next/static/chunks/07ru7kork9-g1.js"
+3:I[67028,["$2"],"HealthProvider"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/AI-builders/_next/static/chunks/1ie2yy3c7se6w.js"
+7:I[29306,["$2","$6"],"default"]
+b:"/AI-builders/_next/static/chunks/07ris64gqwrw8.js"
+c:"/AI-builders/_next/static/chunks/0zp1spmtfwpyz.js"
+d:I[63141,["$2","$b","$c"],"AppShell"]
+e:I[58306,["$2","$b","$c"],"UploadPage"]
+f:I[97367,["$2"],"OutletBoundary"]
+10:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+15:"MetadataBoundary"
+16:I[97367,["$2"],"$15"]
+18:I[68027,["$2"],"default",1]
+:HL["/AI-builders/_next/static/chunks/0kkff99e5-_r2.css","style"]
+:HL["/AI-builders/_next/static/chunks/16kfi4_sl5avv.css","style"]
+:HC["/",""]
+9:X
+a:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Ld",null,{"children":["$","$Le",null,{}]}],[["$","script","script-0",{"src":"/AI-builders/_next/static/chunks/07ris64gqwrw8.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/AI-builders/_next/static/chunks/0zp1spmtfwpyz.js","async":true,"nonce":"$undefined"}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":false,"v":null}}]]
+8:[["children",{"s":"upload","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","upload",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/AI-builders/_next/static/chunks/0kkff99e5-_r2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/AI-builders/_next/static/chunks/16kfi4_sl5avv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/AI-builders/_next/static/chunks/07ru7kork9-g1.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":"$L14"}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":"$L17"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$18",[["$","link","0",{"rel":"stylesheet","href":"/AI-builders/_next/static/chunks/0kkff99e5-_r2.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/AI-builders/_next/static/chunks/16kfi4_sl5avv.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"HfScwsI0W-vjhBN7c2H7O"}
+9:C
+14:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+19:I[27201,["$2"],"IconMark"]
+11:null
+17:[["$","title","0",{"children":"Upload medical records · Nira"}],["$","meta","1",{"name":"description","content":"Your lifelong health story, connected. Nira brings your medical records together into an evidence-linked clinical memory. AI remembers. Doctors decide."}],["$","link","2",{"rel":"icon","href":"/AI-builders/icon.svg?icon.2xis6y6c03j77.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","3",{}]]

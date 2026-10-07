@@ -1,0 +1,6 @@
+:HL["/AI-builders/_next/static/chunks/0kkff99e5-_r2.css","style"]
+:HL["/AI-builders/_next/static/chunks/16kfi4_sl5avv.css","style"]
+:HC["/",""]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"module","t":"d","k":"trends","s":["dashboard","timeline","upload"]},"h":65632,"c":"$Q2"}]]
+0:{"b":"HfScwsI0W-vjhBN7c2H7O","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
